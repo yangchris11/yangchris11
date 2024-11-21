@@ -1,1 +1,1 @@
-A very stupid version of chatGPT at UW ECE.
+My cat wrote all of my code (and paper) :)
